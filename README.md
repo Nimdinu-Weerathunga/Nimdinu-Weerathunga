@@ -47,9 +47,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nimdinu-weerathunga-677014241/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://www.facebook.com/nimdinu.weerathunga?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://www.instagram.com/_nimdinu._weerathunga._/profilecard/?igsh=MWhvMjBhdDNkeTdwZQ==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nimdinu-weerathunga-677014241/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Nimdinu-Weerathunga" height="50" width="50" /></a>
+<a href="https://www.facebook.com/nimdinu.weerathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nimdinu-Weerathunga" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_nimdinu._weerathunga._/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Nimdinu-Weerathunga" height="50" width="50" /></a>
 </p>
 
 ---
