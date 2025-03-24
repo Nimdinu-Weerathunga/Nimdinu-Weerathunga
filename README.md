@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🌱 **FLUTTER AND UI/UX DESIGNER**
+- 🌱 FLUTTER DEVELOPER AND UI/UX DESIGNER
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
